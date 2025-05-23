@@ -26,3 +26,7 @@ sectionPagesMenu = 'main'
     name = 'Miscellanea'
     pageRef = '/miscellanea/'
     weight = 40
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
