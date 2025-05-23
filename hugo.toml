@@ -1,19 +1,28 @@
-baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Aured's Site"
-theme = 'ananke'
 sectionPagesMenu = 'main'
+
+[params]
+  contentTypeName = "posts"
+  fullWidthTheme = true
+
+[params.logo]
+  logoText = "Aured's Site"
 
 [menus]
   [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-  [[menus.main]]
     name = 'About'
     pageRef = '/about/'
-    weight = 20
+    weight = 10
   [[menus.main]]
     name = 'Posts'
     pageRef = '/posts/'
+    weight = 20
+  [[menus.main]]
+    name = 'Friends'
+    pageRef = '/friends/'
     weight = 30
+  [[menus.main]]
+    name = 'Miscellanea'
+    pageRef = '/miscellanea/'
+    weight = 40
