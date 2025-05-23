@@ -1,6 +1,7 @@
 languageCode = 'en-us'
 title = "Aured's Site"
 sectionPagesMenu = 'main'
+theme = 'terminal'
 
 [params]
   contentTypeName = "posts"
