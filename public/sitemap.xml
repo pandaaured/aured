@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:53204/posts/helloworld/</loc>
+    <loc>//localhost:53254/posts/helloworld/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:53204/posts/</loc>
+    <loc>//localhost:53254/posts/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:53204/</loc>
+    <loc>//localhost:53254/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:53204/about/</loc>
+    <loc>//localhost:53254/about/</loc>
   </url><url>
-    <loc>//localhost:53204/friends/</loc>
+    <loc>//localhost:53254/friends/</loc>
   </url><url>
-    <loc>//localhost:53204/miscellanea/</loc>
+    <loc>//localhost:53254/miscellanea/</loc>
   </url><url>
-    <loc>//localhost:53204/categories/</loc>
+    <loc>//localhost:53254/categories/</loc>
   </url><url>
-    <loc>//localhost:53204/tags/</loc>
+    <loc>//localhost:53254/tags/</loc>
   </url>
 </urlset>
