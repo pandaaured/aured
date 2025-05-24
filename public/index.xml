@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Aured&#39;s Site</title>
-    <link>//localhost:53254/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Home on Aured&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:53254/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>//localhost:53254/posts/helloworld/</link>
+      <link>//localhost:1313/posts/helloworld/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:53254/posts/helloworld/</guid>
+      <guid>//localhost:1313/posts/helloworld/</guid>
       <description>&lt;p&gt;This is my first post on this site. Nice!&lt;/p&gt;&#xA;&lt;p&gt;I am setting up this site as a place for some of my thoughts, writings, and&#xA;notes on various things. I intend to keep this site more up-to-date than I have&#xA;my previous attempts at sites.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:53254/about/</link>
+      <link>//localhost:1313/friends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:53254/about/</guid>
-      <description>&lt;p&gt;I am a student studying Mathematics and Computer Science at &lt;a href=&#34;https://www.cmu.edu/&#34;&gt;Carnegie Mellon University.&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I have experience using C, Rust, SML, Python, Lean 4, LaTeX, Typst, HTML, CSS, and a variety of other languages. I am fondest&#xA;of SML and Rust for programming things; Rust for its performance and ecosystem, SML for its elegant syntax and distinct&#xA;approach to the writing of programs. My first experience with typesetting was LaTeX in 2015 and my first experience with&#xA;programming was with Python in 2023.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:53254/friends/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:53254/friends/</guid>
+      <guid>//localhost:1313/friends/</guid>
       <description>&lt;p&gt;I would like to link to some of my friends here, all of whom I enjoy the presence of and appreciate the&#xA;ability to share ideas with.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.rtrosten.com/home&#34;&gt;Robert&lt;/a&gt; - Incoming NYU Analysis Ph. D. student (I think?), very cool, need to pick&#xA;your brain more :) &lt;br&gt;&#xA;&lt;a href=&#34;https://wolfgirl.dev/&#34;&gt;Poly&lt;/a&gt; - Friendly wolfgirl who likes Rust and has helped me a lot with learning Rust. &lt;br&gt;&#xA;&lt;a href=&#34;https://tegfox.blue/&#34;&gt;Teg&lt;/a&gt; - Bloo fock who likes transit! I hope we get to do that panel :3 &lt;br&gt;&#xA;&lt;a href=&#34;https://wah.blue/&#34;&gt;Nick&lt;/a&gt; - BLUE WAH ALERT! Great friend and help to me for several years :) &lt;br&gt;&#xA;&lt;a href=&#34;https://nataliestewart.github.io&#34;&gt;Natalie&lt;/a&gt; - Abstract Nonsense (affectionate) Ph. D. student&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:53254/miscellanea/</link>
+      <link>//localhost:1313/miscellanea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:53254/miscellanea/</guid>
+      <guid>//localhost:1313/miscellanea/</guid>
       <description>&lt;h1 id=&#34;sites-i-find-interesting&#34;&gt;Sites I find interesting&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.edwardtufte.com/&#34;&gt;Edward Tufte&lt;/a&gt;, author of the books &lt;em&gt;The Visual Display of&#xA;Quantitative Information&lt;/em&gt;, &lt;em&gt;Envisioning Informatnion&lt;/em&gt;, &lt;em&gt;Visual Explanations: Images and Quantities,&#xA;Evidence and Narrative&lt;/em&gt;, &lt;em&gt;Beautiful Evidence&lt;/em&gt;, and &lt;em&gt;Seeing with Fresh Eyes: Meaning, Space, Data, Truth&lt;/em&gt;.&#xA;These books single-handedly enamored me with statistics and data visualization, in particular with the&#xA;elegance and clarity of well-communicated data. I cannot recommend these enough.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am a student studying Mathematics and Computer Science at &lt;a href=&#34;https://www.cmu.edu/&#34;&gt;Carnegie Mellon University&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I have experience using C, Rust, SML, Python, Lean 4, LaTeX, Typst, HTML, CSS, and a variety of other languages. I am fondest&#xA;of SML and Rust for programming things; Rust for its performance and ecosystem, SML for its elegant syntax and distinct&#xA;approach to the writing of programs. My first experience with typesetting was LaTeX in 2015 and my first experience with&#xA;programming was with Python in 2023.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

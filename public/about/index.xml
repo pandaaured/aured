@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Aured&#39;s Site</title>
+    <link>//localhost:1313/about/</link>
+    <description>Recent content in Abouts on Aured&#39;s Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/about/</guid>
+      <description>&lt;p&gt;I am a student studying Mathematics and Computer Science at &lt;a href=&#34;https://www.cmu.edu/&#34;&gt;Carnegie Mellon University&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I have experience using C, Rust, SML, Python, Lean 4, LaTeX, Typst, HTML, CSS, and a variety of other languages. I am fondest&#xA;of SML and Rust for programming things; Rust for its performance and ecosystem, SML for its elegant syntax and distinct&#xA;approach to the writing of programs. My first experience with typesetting was LaTeX in 2015 and my first experience with&#xA;programming was with Python in 2023.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

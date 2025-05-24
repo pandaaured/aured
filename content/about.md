@@ -1,4 +1,8 @@
-I am a student studying Mathematics and Computer Science at [Carnegie Mellon University.](https://www.cmu.edu/).
+---
+title: About
+type: docs
+---
+I am a student studying Mathematics and Computer Science at [Carnegie Mellon University](https://www.cmu.edu/).
 
 I have experience using C, Rust, SML, Python, Lean 4, LaTeX, Typst, HTML, CSS, and a variety of other languages. I am fondest
 of SML and Rust for programming things; Rust for its performance and ecosystem, SML for its elegant syntax and distinct
@@ -16,8 +20,7 @@ amount of time spent fidgeting and getting <1% performance increases. Anyway, I 
 I am finding it more and more fun by the day!)
 
 Also, did I mention I like transit? Because I like transit.
-
-{{< image src="auredbus.png" alt="Aured talks about a bus!" position="center" style="border-radius: 8px;" >}}
+{{< image src="about/auredbus.png" alt="Aured speech bubble bus" position="center" style="border-radius: 8px;" >}}
 
 My favorite bus ever is [VIA](https://en.wikipedia.org/wiki/VIA_Metropolitan_Transit)'s 2010 
 [DE40LFR](https://en.wikipedia.org/wiki/New_Flyer_Low_Floor) hybrid. It had by far the most comfortable
