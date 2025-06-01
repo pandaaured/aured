@@ -6,8 +6,15 @@
     <description>Recent content in Home on Aured&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planning my panel</title>
+      <link>//localhost:1313/posts/transitpanel/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/transitpanel/</guid>
+      <description>&lt;p&gt;I was recently informed that the panel proposal I submitted for this year&amp;rsquo;s&#xA;Anthrocon has been accepted. Great! After the last two years, I am happy that&#xA;the panel is going to be official this time and I can&amp;rsquo;t wait to see what the&#xA;turnout is like.&lt;/p&gt;&#xA;&lt;p&gt;On the subject of the panel, I have thoughts about what I want to talk about.&#xA;As of June 1st, I am the only Pittsburgh resident on the panel. As such, I know a lot of&#xA;operational things about the system and would be the best equipped to explain its&#xA;usage. Aside from this, I am contemplating writing about some of Pittsburgh&amp;rsquo;s history&#xA;to illustrate how transit evolved to its current form.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My first post</title>
       <link>//localhost:1313/posts/helloworld/</link>
