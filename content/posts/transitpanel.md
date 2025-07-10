@@ -12,7 +12,8 @@ turnout is like.
 On the subject of the panel, I have thoughts about what I want to talk about. 
 As of June 1st, I am the only Pittsburgh resident on the panel. As such, I know a lot of
 operational things about the system and would be the best equipped to explain its 
-usage. Aside from this, I am contemplating writing about some of Pittsburgh's history
+usage. Aside from :q
+this, I am contemplating writing about some of Pittsburgh's history
 to illustrate how transit evolved to its current form.
 
 It definitely hasn't escaped my mind that a lot of transit enthusiasts are prone 
