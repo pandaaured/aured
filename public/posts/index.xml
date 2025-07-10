@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aured&#39;s Site</title>
-    <link>//localhost:64142/posts/</link>
+    <link>//localhost:49436/posts/</link>
     <description>Recent content on Aured&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:64142/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:49436/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Panel retrospective</title>
-      <link>//localhost:64142/posts/transitpanel3/</link>
+      <link>//localhost:49436/posts/transitpanel3/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:64142/posts/transitpanel3/</guid>
+      <guid>//localhost:49436/posts/transitpanel3/</guid>
       <description>&lt;p&gt;On July 4th, I finally was able to realize the event I had been building&#xA;toward for the last month: I hosted the Transit and Furbanism panel at&#xA;Anthrocon 2025. Alongside me was &lt;a href=&#34;https://wah.blue&#34;&gt;Nick&lt;/a&gt;, &lt;a href=&#34;https://tegfox.blue/&#34;&gt;Teg&lt;/a&gt;,&#xA;and &lt;a href=&#34;https://www.youtube.com/channel/UCsc_Lpk6dva2Lk4zSBWeuLA&#34;&gt;Kezl&lt;/a&gt;.&#xA;The talk had 374 registered attendees on Sched and the room was at, if&#xA;not considerably beyond, the seating capacity for the venue. The panel&#xA;lost very few attendees as it progressed.&lt;/p&gt;&#xA;&lt;h1 id=&#34;an-overview-of-the-presentation&#34;&gt;An overview of the presentation&lt;/h1&gt;&#xA;&lt;p&gt;The talk consisted of four main sections:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Planning my panel, part 2</title>
-      <link>//localhost:64142/posts/transitpanel2/</link>
+      <link>//localhost:49436/posts/transitpanel2/</link>
       <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:64142/posts/transitpanel2/</guid>
+      <guid>//localhost:49436/posts/transitpanel2/</guid>
       <description>&lt;p&gt;Happy 6/21! :3&lt;/p&gt;&#xA;&lt;p&gt;Over the past week, I have gotten quite a bit of work done on my panel for Anthrocon.&lt;/p&gt;&#xA;&lt;p&gt;Much of that work consisted of dry runs: taking the P1 from the stop in front of the&#xA;Westin hotel to East Liberty station, timing each stop, measuring &amp;ldquo;capacity&amp;rdquo;. It occured&#xA;to me that if any significant fraction of the 140 (!) people who registered for our panel&#xA;wanted to participate in the ride-along, it would be logistically difficult to accommodate.&#xA;Pittsburgh&amp;rsquo;s weather is also a factor to consider: last year, I saw someone suffer heatstroke&#xA;in the registration line. It has been hot and humid recently. Should we discourage fursuiting&#xA;on the trip?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Planning my panel</title>
-      <link>//localhost:64142/posts/transitpanel/</link>
+      <link>//localhost:49436/posts/transitpanel/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:64142/posts/transitpanel/</guid>
+      <guid>//localhost:49436/posts/transitpanel/</guid>
       <description>&lt;p&gt;I was recently informed that the panel proposal I submitted for this year&amp;rsquo;s&#xA;Anthrocon has been accepted. Great! After the last two years, I am happy that&#xA;the panel is going to be official this time and I can&amp;rsquo;t wait to see what the&#xA;turnout is like.&lt;/p&gt;&#xA;&lt;p&gt;On the subject of the panel, I have thoughts about what I want to talk about.&#xA;As of June 1st, I am the only Pittsburgh resident on the panel. As such, I know a lot of&#xA;operational things about the system and would be the best equipped to explain its&#xA;usage. Aside from :q&#xA;this, I am contemplating writing about some of Pittsburgh&amp;rsquo;s history&#xA;to illustrate how transit evolved to its current form.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My first post</title>
-      <link>//localhost:64142/posts/helloworld/</link>
+      <link>//localhost:49436/posts/helloworld/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:64142/posts/helloworld/</guid>
+      <guid>//localhost:49436/posts/helloworld/</guid>
       <description>&lt;p&gt;This is my first post on this site. Nice!&lt;/p&gt;&#xA;&lt;p&gt;I am setting up this site as a place for some of my thoughts, writings, and&#xA;notes on various things. I intend to keep this site more up-to-date than I have&#xA;my previous attempts at sites.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -53,10 +53,10 @@ Once we got to Penn Station, there was a slight hiccup with which direction to t
 at the station crosswalk. Aside from that, everything went very well. Nobody had
 trouble paying their fare and the weather mercifully cooled down when we needed it to.
 
-{{< image src="/main/DSC_9176.jpg" alt="Furries on a bus." position="center" style="border-radius: 8px;" >}}
+{{< image src="DSC_9176.jpg" alt="Furries on a bus." position="center" style="border-radius: 8px;" >}}
 (Figure 1: Furries on a bus.)
 
-{{< image src="/main/DSC_9190.jpg" alt="Furries on the East Liberty Station bridge." position="center" style="border-radius: 8px;" >}}
+{{< image src="DSC_9190.jpg" alt="Furries on the East Liberty Station bridge." position="center" style="border-radius: 8px;" >}}
 (Figure 2: Furries on the East Liberty Station bridge.)
 
 # Post Convention Panel Thoughts
@@ -80,7 +80,7 @@ fun!), I participated in more panels (had to represent at the University Furs pa
 and I hung out with friends much more than at previous conventions. Of course, it wasn't
 perfect, and there is always more I can do to make the next convention better. 
 
-{{< image src="/main/DSC_9220.jpg" alt="Furries and art in the Dealer's Den." position="center" style="border-radius: 8px;" >}}
+{{< image src="DSC_9220.jpg" alt="Furries and art in the Dealer's Den." position="center" style="border-radius: 8px;" >}}
 (Figure 3: Furries and art in the Dealer's Den.)
 
 The slides are available 
