@@ -6,7 +6,7 @@ weight: 10
 ---
 On July 4th, I finally was able to realize the event I had been building
 toward for the last month: I hosted the Transit and Furbanism panel at 
-Anthrocon 2025. Alongside me was [Nick](https://wah.blue), [Teg](https://tegfox.blue/),
+Anthrocon 2025. Alongside me were [Nick](https://wah.blue), [Teg](https://tegfox.blue/),
 and [Kezl](https://www.youtube.com/channel/UCsc_Lpk6dva2Lk4zSBWeuLA). 
 The talk had 374 registered attendees on Sched and the room was at, if 
 not considerably beyond, the seating capacity for the venue. The panel 

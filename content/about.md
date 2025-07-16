@@ -1,5 +1,5 @@
 I am a student studying Mathematics and Computer Science at 
-[Carnegie Mellon University.](https://www.cmu.edu/).
+[Carnegie Mellon University.](https://www.cmu.edu/)
 
 I enjoy learning in any discipline. My specialty is technical, but I have a fond
 appreciation for the humanities and my experiences growing up reading books and 
