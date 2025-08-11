@@ -1,7 +1,7 @@
 ---
 date: 2025-08-01
-linktitle: Transit travel: New York City
-title: Transit travel: New York City
+linktitle: Transit travel--New York City
+title: Transit travel--New York City
 weight: 10
 ---
 From July 24th to July 29th I took a vacation to New York City. As a transit
@@ -22,7 +22,17 @@ houses, miles of highway and suburban development made me wonder what Long Islan
 would have looked like not even 100 years ago. We landed at Kennedy in the early
 morning. The sun was out and I promptly took the AirTrain to the nearest subway
 station. My first NYC Subway train was an E train to Manhattan. I was immediately
-impressed by the quality of the announcements 
+impressed by the quality of the announcements. In about 40 minutes, I arrived in
+midtown Manhattan, surrounded by the energy of Times Square. I don't consider myself
+the world's biggest fan of advertisements everywhere, but the sheer energy and 
+bustle in Times Square makes me forget about it. Being there was awesome and gave
+me so much energy. Straight away, I knew what I had to do. It was shortly past 10 AM,
+so I went straight to Joe's for a "breakfast" pizza. It was fantastic, just as I
+remember it being. 
+
+{{< image src="image3.jpg" alt="Humorous sign on the wall at Joe's" position="center"
+style="border-radius: 8px;" >}}
+(Figure 2: 
 
 # NY Furs 
 ## Fur Ride
@@ -31,7 +41,9 @@ by the [NY Furs](https://nyfurs.org/). The first of these was a fur ride: many
 furries met at Jay St-MetroTech station in Brooklyn and rode an F train to
 W-8 St-NY Aquarium station. Throughout the ride, we got to interact with
 the local public and observe the rail infrastructure (we saw an R211T in a railyard!)
-(Insert a picture of the F headways here!)
+
+{{< image src="image4.jpg" alt="Arrival sign displaying F to Coney Island in 22 and 39 minutes." 
+position="center" style="border-radius: 8px;">}}
 
 ## Fur Walk
 Immediately after the fur ride, we walked along to a park in the Coney Island area to 
