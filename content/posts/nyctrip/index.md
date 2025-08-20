@@ -30,10 +30,6 @@ me so much energy. Straight away, I knew what I had to do. It was shortly past 1
 so I went straight to Joe's for a "breakfast" pizza. It was fantastic, just as I
 remember it being. 
 
-{{< image src="image3.jpg" alt="Humorous sign on the wall at Joe's" position="center"
-style="border-radius: 8px;" >}}
-(Figure 2: 
-
 # NY Furs 
 ## Fur Ride
 During my trip, I also had the pleasure of attending three events coordinated 
