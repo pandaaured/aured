@@ -6,6 +6,9 @@ theme = 'terminal'
 [params]
   contentTypeName = "posts"
   fullWidthTheme = true
+  menuMore = "Show more"
+  readMore = "Read more"
+  readOtherPosts = "Read other posts"
 
 [params.logo]
   logoText = "Aured's Site"
