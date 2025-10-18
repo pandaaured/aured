@@ -2,8 +2,8 @@ I would like to link to some of my friends here, all of whom I enjoy the presenc
 ability to share ideas with.
 
 [Asher](https://asher.dog) - Computer toucher maned wolf! I've also heard he's very tall, but this
-has yet to be ascertained in person.
-[Cendyne](https://cendyne.dev) - Computer naga who is also interested in math, has a very nice blog.
+has yet to be ascertained in person. \
+[Cendyne](https://cendyne.dev) - Computer naga who is also interested in math, has a very nice blog. \
 [Robert](https://www.rtrosten.com/home) - NYU Analysis Ph. D. student, very cool, need to pick 
 your brain more :) \
 [Poly](https://wolfgirl.dev/) - Friendly wolfgirl who likes Rust and has helped me a lot with learning Rust. \
