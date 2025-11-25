@@ -58,6 +58,7 @@ rate.
 More importantly however, I will have no life or free time!! (again :3) so if I disappear off the face of the
 earth, this is why! I should have another update coming after I go ride lots of trains once the semester ends :)
 
-Take care
+Take care!
+
 Aured
 
