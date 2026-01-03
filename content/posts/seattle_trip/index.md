@@ -55,8 +55,8 @@ impressed me the most with respect to transit access. I was a 1 minute walk
 away from a route 5 stop, which is what I used while getting there for the 
 first time. More importantly to me, I was just 3 blocks from a route 44 stop 
 and around 6 blocks from a E line stop. 
-{{< image src="buses4.jpg" alt="A New Flyer DE60LFR running on the E line on
-Aurora avenue." position="center" style="border-radius: 8px;" >}}
+{{< image src="buses4.jpg" alt="A New Flyer DE60LFR running on the E line on Aurora avenue." 
+position="center" style="border-radius: 8px;" >}}
 (Figure 2. A New Flyer DE60LFR running on the E line on Aurora avenue.)
 
 The E line impressed me tremendously; 
