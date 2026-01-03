@@ -1,9 +1,12 @@
----
-date: 2025-06-21
-linktitle: Planning my panel, part 2
-title: Planning my panel, part 2
-weight: 10
----
++++
+date = 2025-06-21
+draft = false
+linktitle = 'Planning my panel, part 2'
+title = 'Planning my panel, part 2'
+weight = 10
+[params]
+  author = 'Aured'
++++
 Happy 6/21! :3 
 
 Over the past week, I have gotten quite a bit of work done on my panel for Anthrocon.

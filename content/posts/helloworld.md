@@ -1,9 +1,12 @@
----
-date: 2025-05-22
-linktitle: Hello, World!
-title: My first post 
++++
+date = 2025-05-22
+draft = false
+linkTitle = 'Hello, World!'
+title = My first post 
 weight: 10
----
+[params]
+  author = 'Aured'
++++
 This is my first post on this site. Nice!
 
 I am setting up this site as a place for some of my thoughts, writings, and 
