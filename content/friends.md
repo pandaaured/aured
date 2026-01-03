@@ -8,7 +8,7 @@ has yet to be ascertained in person. \
 [Poly](https://wolfgirl.dev/) - Friendly wolfgirl who likes Rust and has helped me a lot with learning Rust. \
 [Robert](https://www.rtrosten.com/home) - NYU Analysis Ph. D. student, very cool, need to pick 
 your brain more :) \
-[Teg](https://tegfox.blue/) - Bloo fock who likes transit! I hope we get to do that panel :3 \
+[Teg](https://tegfox.blue/) - Bloo fock who likes transit! 
 
 If we're friends and you would like me to link to your site, please reach out to me! I don't remember 
 everyone who has a site and I want to include as many of you here as I can.
