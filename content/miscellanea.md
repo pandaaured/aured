@@ -4,6 +4,8 @@ Quantitative Information_, _Envisioning Information_, _Visual Explanations: Imag
 Evidence and Narrative_, _Beautiful Evidence_, and _Seeing with Fresh Eyes: Meaning, Space, Data, Truth_. 
 These books single-handedly enamored me with statistics and data visualization, in particular with the 
 elegance and clarity of well-communicated data. I cannot recommend these enough. 
+- [Hyena.website](https://zohfur.dog): a very cool website made by a furry! I love old web design
+like this, it's incredibly creative and cool.
 
 # Resources
 As an undergraduate in mathematics and former course TA, I have spent much free
