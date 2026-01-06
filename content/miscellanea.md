@@ -1,9 +1,11 @@
 # Sites I find interesting
-- [Edward Tufte](https://www.edwardtufte.com/), author of the books _The Visual Display of
+- [Edward Tufte](https://www.edwardtufte.com/): author of the books _The Visual Display of
 Quantitative Information_, _Envisioning Information_, _Visual Explanations: Images and Quantities,
 Evidence and Narrative_, _Beautiful Evidence_, and _Seeing with Fresh Eyes: Meaning, Space, Data, Truth_. 
 These books single-handedly enamored me with statistics and data visualization, in particular with the 
 elegance and clarity of well-communicated data. I cannot recommend these enough. 
+- [Enclose horse](https://enclose.horse): a cool puzzle game where you attempt to enclose a horse
+in the greatest possible area.
 - [Hyena.website](https://zohfur.dog): a very cool website made by a furry! I love old web design
 like this, it's incredibly creative and cool.
 
