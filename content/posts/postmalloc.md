@@ -1,12 +1,9 @@
-+++
-date = 2025-11-06
-draft = false
-linktitle = "After malloc" 
-title = "My long awaited post malloc update post!"
+---
+date: 2025-11-06
+linktitle: After malloc 
+title: My long awaited post malloc update post! 
 weight: 10
-[params]
-  author = 'Aured'
-+++
+---
 Hello from the other side! I spent a considerable amount of the time between October and now
 working on two labs: these were malloclab and tshlab. As the name may suggest, in malloclab,
 we have to implement a memory allocator. In tshlab, we have to implement a simple linux

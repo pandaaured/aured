@@ -1,12 +1,9 @@
-+++
-date = 2025-07-04
-draft = false
-linktitle = 'Panel retrospective'
-title ='Panel retrospective'
-weight = 10
-[params]
-  author = 'Aured'
-+++
+---
+date: 2025-07-04
+linktitle: Panel retrospective
+title: Panel retrospective
+weight: 10
+---
 On July 4th, I finally was able to realize the event I had been building
 toward for the last month: I hosted the Transit and Furbanism panel at 
 Anthrocon 2025. Alongside me were [Nick](https://wah.blue), [Teg](https://tegfox.blue/),

@@ -1,12 +1,9 @@
-+++
-date = 2025-10-18
-linktitle = 'Update on Life'
-draft = false
-title = 'What I've been up to'
-weight = 10
-[params]
-  author = 'Aured'
-+++
+---
+date: 2025-10-18
+linktitle: Update on Life 
+title: What I've been up to
+weight: 10
+---
 Hello!
 
 I am sorry about the four month gap between posts. Once I began writing my

@@ -1,12 +1,9 @@
-+++
+---
 date: 2026-01-02
-draft = false
-title = "Seattle Retrospective"
-weight: 10
-[params]
-  author = 'Aured'
-+++
 
+title: Seattle Retrospective
+weight: 10
+---
 # Overview
 From December 13th to December 25th, I was on vacation in Seattle, Washington. 
 I inhabited three friends' places across my trip, each with a varying degree 

@@ -1,12 +1,9 @@
-+++
-date = 2025-06-01
-draft = false
-linktitle = "Planning my panel"
-title = "Planning my panel"
-weight = 10
-[params]
-  author = 'Aured'
-+++
+---
+date: 2025-06-01
+linktitle: Planning my panel
+title: Planning my panel
+weight: 10
+---
 I was recently informed that the panel proposal I submitted for this year's
 Anthrocon has been accepted. Great! After the last two years, I am happy that 
 the panel is going to be official this time and I can't wait to see what the 
