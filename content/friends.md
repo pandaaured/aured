@@ -4,6 +4,7 @@ ability to share ideas with.
 [Asher](https://asher.dog) - Computer toucher maned wolf! I've also heard he's very tall, but this
 has yet to be ascertained in person. \
 [Cendyne](https://cendyne.dev) - Computer naga who is also interested in math, has a very nice blog. \
+[Kai](https://kaiman.blue) - Very polite graphics crocowolf! Thanks for the Vignelli :) \
 [Nick](https://wah.blue/) - BLUE WAH ALERT! Great friend and help to me for several years :) \
 [Poly](https://wolfgirl.dev/) - Friendly wolfgirl who likes Rust and has helped me a lot with learning Rust. \
 [Robert](https://www.rtrosten.com/home) - NYU Analysis Ph. D. student, very cool, need to pick 
