@@ -3,3 +3,8 @@
   --foreground: #eceae5;
   --accent: #5c9cd3;
 }
+
+body {
+  max-width: 1000;
+  margin: 0 auto;
+}
