@@ -24,3 +24,6 @@ Jeremy Avigad and Patrick Massot. This is the text which we loosely followed in 
 on Interactive Theorem Proving I took with professor Avigad. I was in a bad place mentally
 when I took the course which led me to not putting in enough effort, which I sorely regret.
 Professor Avigad is great and very passionate about the subject matter.
+- [Top 10 LaTeX Fonts](https://r2src.github.io/top10fonts/) A quick comparison of the 
+typesetting output of a few different fonts in LaTeX. Worth reading to get a sense of 
+different choices you can make to alter the appearance of your documents to your liking.
